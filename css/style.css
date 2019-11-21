@@ -32,19 +32,19 @@
 html { font-size: 16px; -webkit-font-smoothing: antialiased; }
 body {
 	margin: 0;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	position: relative;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: 'Raleway', sans-serif;
 	font-weight: 700;
 	margin: 0px;
-	color: #333;
+	color: #cc0000;
 }
 p {
 	margin-top: 0px;
 	margin-bottom: 0px;
-	color: #555;
+	color: #000;
 	font-weight: 300;
 	letter-spacing: 1.2px;
 }
@@ -141,18 +141,18 @@ button, button:focus, a, a:hover, a:focus, input, input:active, input:focus, tex
 	color: #fff;
 }
 .header .content h1 {
-	color: #0077B5;
+	color: #cc0004;
 	font-size: 4rem;
 	margin: 0;
-	border-top: 2px solid #fff;
-	border-bottom: 2px solid #fff;
+	border-top: 2px solid #f3f3f3;
+	border-bottom: 2px solid #f3f3f3;
 	display: inline-block;
 	padding: 0.5rem 2rem;
 }
 .header .content a {
 	display: inline-block;
 	width: 10rem;
-	border: 1px solid #fff;
+	border: 1px solid #f3f3f3;
 	padding: 8px;
 	margin: 10px;
 }
