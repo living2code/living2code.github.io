@@ -1,2 +1,2 @@
-# living2ode.github.io
-tryingtogetmyghpageswebsiteback
+# living2code.github.io
+MyPersonalWebsite
